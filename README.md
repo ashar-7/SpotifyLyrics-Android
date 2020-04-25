@@ -8,3 +8,6 @@ The app uses [Spotify App Remote SDK](https://developer.spotify.com/documentatio
 
 ### [lyrics.ovh API](https://lyrics.ovh/)
 No key required for this API. [Docs here](https://lyricsovh.docs.apiary.io/#).
+
+### Screenshot
+<img src="screenshots/home.png" width=250/>
