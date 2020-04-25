@@ -16,6 +16,7 @@ class SpotifyManager(
 
     private val tag = javaClass.simpleName
 
+    // No shit Sherlock these won't work for you. Get your own.
     private val clientID = "65e7c3aa11cf4ce6ad67b00e0444af8d"
     private val redirectUri = "https://spotifylyrics.com/callback"
 
