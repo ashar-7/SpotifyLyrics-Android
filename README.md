@@ -1,5 +1,7 @@
 # SpotifyLyrics-Android
-Shows lyrics for the current playing track on spotify
+Shows lyrics for the current playing track on spotify.
+
+Get the latest APK [here](https://github.com/ashar-7/SpotifyLyrics-Android/releases)
 
 ### Spotify SDK
 The app uses [Spotify App Remote SDK](https://developer.spotify.com/documentation/android/) to subscribe to the player state in the Spotify app in your device.
